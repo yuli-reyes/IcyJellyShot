@@ -1,9 +1,18 @@
+
+
+
+
+
 import logo from './logo.svg';
 import './App.css';
+import Nav from './components/nav/Nav';
+import Footer from './components/footer/Footer';
 
-function App() {
+function App(){
   return (
     <div>
+      <Nav />      
+      <Footer />
 
     </div>
   );

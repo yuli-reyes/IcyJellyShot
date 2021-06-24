@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
@@ -10,16 +19,18 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
+  NavLink,
   Link
 } from "react-router-dom";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+
     <Router>
+        <App />
       <Switch>
 
-        <Route path="/home">
+        <Route path="/conocenos">
           <Home />
         </Route>
 

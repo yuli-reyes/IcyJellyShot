@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Prompt:wght@400;500;600&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Prompt:wght@400;500;600&display=swap');
 
 *{
 	margin: 0;
@@ -13,4 +13,14 @@
 	margin: 0;
 }
 
+p,li{
 
+	font-family: 'Lexend Deca', sans-serif;
+    font-size: 17px;
+
+}
+
+h1,h5{
+
+	font-family: 'Prompt', sans-serif;
+}

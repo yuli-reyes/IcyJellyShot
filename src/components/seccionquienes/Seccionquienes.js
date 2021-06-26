@@ -15,9 +15,8 @@ function Seccionquienes(){ return(
                            Brindamos una experiencia única, ofrecemos el acompañante ideal para cualquier 
                            ocasión.
                         </p>
-                    </div>
-                    
-                    <div className="col-12 col-md-6"><img className="img-fluid rounded" src={imgquienes} alt="imagenQuienesSomos" />
+                    </div>                    
+                       <div className="col-12 col-md-6"><img className="img-fluid rounded" src={imgquienes} alt="imagenQuienesSomos" />
                     </div>
 
                 </div>

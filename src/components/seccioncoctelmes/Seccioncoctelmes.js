@@ -46,7 +46,7 @@ const infocards=[
 function Seccioncoctelmes(){
 	return(
 
-		<section className="py-5 bg-light">
+		<section className="py-5">
 			<article id="coctelmes">
 				<div className="container">
 						<h1 className="mb-2">CÓCTEL DEL MES</h1>

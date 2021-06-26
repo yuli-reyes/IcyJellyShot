@@ -1,11 +1,13 @@
+
 import './App.css';
 import Nav from './components/nav/Nav';
 import Footer from './components/footer/Footer';
-function App(){
 
+
+function App(){
   return (
     <div>
-      <Nav />      
+      <Nav />     
       <Footer />
 
     </div>

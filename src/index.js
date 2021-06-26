@@ -1,15 +1,6 @@
 
-
-
-
-
-
-
-
-
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import Home from './pages/home/Home';
 import Catalogo from './pages/catalogo/Catalogo';
 import Registro from './pages/registro/Registro';
@@ -27,28 +18,27 @@ ReactDOM.render(
   <React.StrictMode>
 
     <Router>
-        <App />
       <Switch>
 
-        <Route path="/conocenos">
-          <Home />
-        </Route>
+          <Route path="/conocenos">
+            <Home />
+          </Route>
 
-        <Route path="/catalogo">
-          <Catalogo />
-        </Route>
+          <Route path="/catalogo">
+            <Catalogo />
+          </Route>
 
-        <Route path="/registro">
-          <Registro />
-        </Route>
+          <Route path="/registro">
+            <Registro />
+          </Route>
 
-        <Route exact path="/">
-          <Home />
-        </Route>
+          <Route exact path="/">
+            <Home />
+          </Route>
 
-        <Route path="*">
-          <Error404 />
-        </Route>
+          <Route path="*">
+            <Error404 />
+          </Route>
 
       </Switch>
     </Router>

@@ -3,9 +3,9 @@ import imgquienes from './imgquienes.jpg'
 
 function Seccionquienes(){ return(
   <div>
-      <div className="container">
+      <div className="container py-5">
                 <div className="row">
-                    <div className="cajaquienes col-lg-6">
+                    <div className="cajaquienes col-12 col-md-6">
                         <h1 className="mb-4">QUIÉNES SOMOS</h1>
                         <p>Somos  <strong>Icy  Jelly Shot </strong>trabajamos por la calidad de nuestras 
                            bebidas congeladas elaboradas para todos los gustos. Contamos con dos alternativas, 
@@ -15,9 +15,8 @@ function Seccionquienes(){ return(
                            Brindamos una experiencia única, ofrecemos el acompañante ideal para cualquier 
                            ocasión.
                         </p>
-                    </div>
-                    
-                    <div className="col-lg-6"><img className="img-fluid rounded" src={imgquienes} alt="imagenQuienesSomos" />
+                    </div>                    
+                       <div className="col-12 col-md-6"><img className="img-fluid rounded" src={imgquienes} alt="imagenQuienesSomos" />
                     </div>
 
                 </div>

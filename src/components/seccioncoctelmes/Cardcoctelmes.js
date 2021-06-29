@@ -11,10 +11,16 @@ function Cardcoctelmes(props){
            	<img className="card-img-top" src={props.imgcard} alt="..." />
            	<div className="card-body">
 	           	<h5 className="card-title"><img className="icon1" src={props.iconocard} />{props.titulocard}</h5>
+	           	{props.list&&
+	           		<ul>
+	           			<li>{props.desc1}</li>
+	           			<li>{props.desc2}</li>
+	           			<li>{props.desc3}</li>
+	           		</ul>
+	           	||
 	           	<p className="card-text">{props.parrafo}</p>
-	           <p>{props.desc1}</p>
-		       <p>{props.desc2}</p>
-		       <p>{props.desc3}</p>
+	           	}
+
 	       </div>
         </div>
 

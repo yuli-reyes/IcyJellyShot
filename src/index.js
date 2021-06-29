@@ -1,6 +1,6 @@
+
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import Home from './pages/home/Home';
 import Catalogo from './pages/catalogo/Catalogo';
 import Registro from './pages/registro/Registro';
@@ -10,34 +10,35 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
+  NavLink,
   Link
 } from "react-router-dom";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+
     <Router>
       <Switch>
 
-        <Route path="/home">
-          <Home />
-        </Route>
+          <Route path="/conocenos">
+            <Home />
+          </Route>
 
-        <Route path="/catalogo">
-          <Catalogo />
-        </Route>
+          <Route path="/catalogo">
+            <Catalogo />
+          </Route>
 
-        <Route path="/registro">
-          <Registro />
-        </Route>
+          <Route path="/registro">
+            <Registro />
+          </Route>
 
-        <Route exact path="/">
-          <Home />
-        </Route>
+          <Route exact path="/">
+            <Home />
+          </Route>
 
-        <Route path="*">
-          <Error404 />
-        </Route>
+          <Route path="*">
+            <Error404 />
+          </Route>
 
       </Switch>
     </Router>

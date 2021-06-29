@@ -14,9 +14,10 @@ const infocards=[
 	img:imgfruta,
 	icon:iconfruta,
 	title:'FRUTAS',
-	list1:'• Limón',
-	list2:'• Fresas',
-	list3:'• Cerezas',
+	list1:'Limón',
+	list2:'Fresas',
+	list3:'Cerezas',
+	list:true
 
 },
 
@@ -26,16 +27,17 @@ const infocards=[
 	icon: iconapariencia,
 	title:'APARIENCIA',
 	desc:'Llamativo cóctel color azul intenso, con aroma a Hierbabuena sabor fuerte y amargo, pero con un toque refrescante.',
-
+	list:false
 },
 {
 	id:3,
 	img: imglicor,
 	icon:iconlicor,
 	title:'LICORES',
-	list1:'• Triple Seco',
-	list2:'• Whisky',
-	list3:'• Vodka',
+	list1:'Triple Seco',
+	list2:'Whisky',
+	list3:'Vodka',
+	list:true
 },
 
 
@@ -55,7 +57,7 @@ function Seccioncoctelmes(){
 						{
 							infocards.map(card=>(
 								<div className="col-lg-4 col-sm-6 mb-4" key={card.id}>
-									<Cardcoctelmes imgcard={card.img} titulocard={card.title} iconocard={card.icon} parrafo={card.desc} desc1={card.list1} desc2={card.list2} desc3={card.list3} />
+									<Cardcoctelmes imgcard={card.img} titulocard={card.title} iconocard={card.icon} parrafo={card.desc} desc1={card.list1} desc2={card.list2} desc3={card.list3} list={card.list} />
 
 								</div>
 

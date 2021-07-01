@@ -1,17 +1,6 @@
-
-
-
-
-
-
-
-
-
-
-
-
 import './nav.css';
 import logo from './imagenes/logo.png';
+import ModalRegis from '../modalregistro/Modalregistro';
 import React from "react";
 import {
   BrowserRouter as Router,
@@ -58,6 +47,8 @@ return(
 	        </div>
 	  </div>
 	</nav>
+
+	<ModalRegis />
 </div>
 
 	);

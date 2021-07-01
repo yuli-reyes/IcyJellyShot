@@ -9,6 +9,7 @@ function Catalogo() {
 		    <Nav />
 		
 			<Seccionsmoothies />
+		    <Seccioncocteles />
       		<Footer />
 		</div>
 

@@ -7,9 +7,8 @@ function Catalogo() {
 	return(
 		<div>
 		    <Nav />
-		
-			<Seccionsmoothies />
-		    <Seccioncocteles />
+		      <Seccioncocteles />
+			  <Seccionsmoothies />
       		<Footer />
 		</div>
 

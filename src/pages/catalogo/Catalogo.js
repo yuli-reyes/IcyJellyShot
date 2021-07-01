@@ -1,13 +1,16 @@
 import Nav from '../../components/nav/Nav';
 import Footer from '../../components/footer/Footer';
 import Seccioncocteles from '../../components/seccioncocteles/Seccioncocteles';
+import Seccionsmoothies from '../../components/seccionsmoothies/Seccionsmoothies';
+
 
 function Catalogo() {
 	return(
 		<div>
 		    <Nav />
-		    <Seccioncocteles />
-      		<Footer />
+		       <Seccioncocteles />
+			     <Seccionsmoothies />
+      	<Footer />
 		</div>
 
 		);

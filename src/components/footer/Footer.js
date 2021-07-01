@@ -1,9 +1,3 @@
-
-
-
-
-
-
 import './footer.css';
 import logoface from './imagenes/icon-face.png';
 import instagram from './imagenes/icon-instagram.png';

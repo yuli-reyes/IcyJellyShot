@@ -1,7 +1,3 @@
-
-<<<<<<< HEAD
-=======
-
 import './cardcoctelmes.css';
 
 
@@ -30,4 +26,3 @@ function Cardcoctelmes(props){
 }
 
 export default Cardcoctelmes;
->>>>>>> origin

@@ -1,9 +1,7 @@
-
 import ReactDOM from 'react-dom';
 import './index.css';
 import Home from './pages/home/Home';
 import Catalogo from './pages/catalogo/Catalogo';
-import Registro from './pages/registro/Registro';
 import Error404 from './pages/error404/Error404';
 import React from "react";
 import {
@@ -26,10 +24,6 @@ ReactDOM.render(
 
           <Route path="/catalogo">
             <Catalogo />
-          </Route>
-
-          <Route path="/registro">
-            <Registro />
           </Route>
 
           <Route exact path="/">

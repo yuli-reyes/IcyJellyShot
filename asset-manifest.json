@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/IcyJellyShot/static/css/main.074e9891.chunk.css",
+    "main.js": "/IcyJellyShot/static/js/main.621d6aa6.chunk.js",
+    "main.js.map": "/IcyJellyShot/static/js/main.621d6aa6.chunk.js.map",
+    "runtime-main.js": "/IcyJellyShot/static/js/runtime-main.6ad33210.js",
+    "runtime-main.js.map": "/IcyJellyShot/static/js/runtime-main.6ad33210.js.map",
+    "static/js/2.896e3a76.chunk.js": "/IcyJellyShot/static/js/2.896e3a76.chunk.js",
+    "static/js/2.896e3a76.chunk.js.map": "/IcyJellyShot/static/js/2.896e3a76.chunk.js.map",
+    "index.html": "/IcyJellyShot/index.html",
+    "static/css/main.074e9891.chunk.css.map": "/IcyJellyShot/static/css/main.074e9891.chunk.css.map",
+    "static/js/2.896e3a76.chunk.js.LICENSE.txt": "/IcyJellyShot/static/js/2.896e3a76.chunk.js.LICENSE.txt",
+    "static/media/Pagina-Error.8227435c.png": "/IcyJellyShot/static/media/Pagina-Error.8227435c.png",
+    "static/media/bluelemon.f9707569.jpg": "/IcyJellyShot/static/media/bluelemon.f9707569.jpg",
+    "static/media/coctel.f134f1e2.jpg": "/IcyJellyShot/static/media/coctel.f134f1e2.jpg",
+    "static/media/modalregistro.css": "/IcyJellyShot/static/media/fondocolor1.7b1ad178.jpg",
+    "static/media/footer.css": "/IcyJellyShot/static/media/fondofooter.155d5af6.jpg",
+    "static/media/cardcocteles.css": "/IcyJellyShot/static/media/hielosbanner.7d412f88.jpg",
+    "static/media/icon-daviplata.7787468f.png": "/IcyJellyShot/static/media/icon-daviplata.7787468f.png",
+    "static/media/icon-maestro.f46df38b.png": "/IcyJellyShot/static/media/icon-maestro.f46df38b.png",
+    "static/media/icon-mastercard.4760bbde.png": "/IcyJellyShot/static/media/icon-mastercard.4760bbde.png",
+    "static/media/icon-nequi.e7ce9c98.png": "/IcyJellyShot/static/media/icon-nequi.e7ce9c98.png",
+    "static/media/imgquienes.8a8b6c64.jpg": "/IcyJellyShot/static/media/imgquienes.8a8b6c64.jpg",
+    "static/media/jack-daniels.f0e80070.jpg": "/IcyJellyShot/static/media/jack-daniels.f0e80070.jpg",
+    "static/media/jugosnaturales.067fff44.jpg": "/IcyJellyShot/static/media/jugosnaturales.067fff44.jpg",
+    "static/media/limones.1f3cc7ba.jpg": "/IcyJellyShot/static/media/limones.1f3cc7ba.jpg",
+    "static/media/logo.13c1a426.png": "/IcyJellyShot/static/media/logo.13c1a426.png",
+    "static/media/pedidos1.d6b198a2.jpg": "/IcyJellyShot/static/media/pedidos1.d6b198a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ad33210.js",
+    "static/js/2.896e3a76.chunk.js",
+    "static/css/main.074e9891.chunk.css",
+    "static/js/main.621d6aa6.chunk.js"
+  ]
+}

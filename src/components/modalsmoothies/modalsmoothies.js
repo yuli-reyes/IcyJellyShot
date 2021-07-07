@@ -2,7 +2,7 @@ import './modalsmoothies.css';
 
 function ModalSmoothie(props) {
     return (
-        <div className="modal" id={props.pms1} tabindex={-1}> 
+        <div className="modal" id={props.pms1} tabIndex={-1}> 
         <div className="modal-dialog modal-dialog-centered modal-lg">
             <div className="modal-content">
                  <div className="modal-header">
@@ -16,7 +16,7 @@ function ModalSmoothie(props) {
                         
                             <div className="row">
                               <div className="imagen-g col-sm-6 col-md-6 col-lg-6">
-                                 <img src={props.pms3} width="250px" />
+                                 <img className="imgmodal" src={props.pms3} width="250px" />
                               </div>
                               <div className="texticon col-sm-6 col-md-6 col-lg-6">
                                     <h3 className="subtitulom">Descripción</h3>
@@ -50,8 +50,8 @@ function ModalSmoothie(props) {
                     </div>
                 </div>
                 <div className="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
-                <button type="button" class="btn btn-secondary"><a href="tupedido.html">Haz tu pedido</a></button>
+                <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                <button type="button" className="btn btn-secondary"><a href="tupedido.html">Haz tu pedido</a></button>
 
                 </div>
           </div>

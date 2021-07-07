@@ -3,7 +3,7 @@ import './modalcocteles.css';
 function ModalCocteles(props){
   return(
 
- <div className="modal" id={props.pm1} tabindex={-1}> 
+ <div className="modal" id={props.pm1} tabIndex={-1}> 
     <div className="modal-dialog modal-dialog-centered modal-lg">
         <div className="modal-content">
              <div className="modal-header">

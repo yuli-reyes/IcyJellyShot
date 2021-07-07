@@ -16,7 +16,7 @@ Pueden recibir ayuda los usuarios acerca de nuestro proyecto, a traves de nuestr
 Las personas que mantienen el proyecto son:📌
 Maria Camila León, Elena González, Yuli Viviana Reyes.
 
-Contruido con 🛠️
+Construido con 🛠️
 - Boostrap 5
 - React App
 - React Router

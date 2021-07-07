@@ -6,6 +6,7 @@ import nequi from './imagenes/icon-nequi.png';
 import daviplata from './imagenes/icon-daviplata.png';
 import maestro from './imagenes/icon-maestro.png';
 import mastercard from './imagenes/icon-mastercard.png';
+import whatsapp from './imagenes/whatsapp.png';
 
 function Footer(){
 	return(
@@ -16,9 +17,10 @@ function Footer(){
 	                    <div className="inforedes">
 	                            <h5>Síguenos en nuestras redes sociales</h5>
 	                            <div>
-	                                <a href="https://www.facebook.com/"><img className="iconosocial" src={logoface} alt="pagina facebook"/></a>
-	                                <a href="https://www.instagram.com/"><img className="iconosocial" src={instagram} alt="pagina instagram" /></a>
-	                                <a href="https://www.tiktok.com/"><img className="iconosocial" src={tiktok} alt="pagina tiktok" /></a>
+	                                <a href="https://www.facebook.com/" target="_blank"><img className="iconosocial" src={logoface} alt="pagina facebook"/></a>
+	                                <a href="https://www.instagram.com/" target="_blank"><img className="iconosocial" src={instagram} alt="pagina instagram" /></a>
+	                                <a href="https://www.tiktok.com/" target="_blank"><img className="iconosocial" src={tiktok} alt="pagina tiktok" /></a>
+	                                <a href="https://api.whatsapp.com/send?phone=3194347377" target="_blank"><img className="iconosocial" src={whatsapp} alt="pagina whatsapp" /></a>
 	                            </div>
 	                   </div>
 	              </div>

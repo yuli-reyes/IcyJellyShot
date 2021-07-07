@@ -23,10 +23,10 @@ return(
 	        <div className="collapse navbar-collapse" id="navbarSupportedContent">
 	          <ul  className="visitado navbar-nav mb-2 mb-lg-0 mx-auto">
 	            <li className="nav-item">
-	              <NavLink to="/conocenos" activeclassName="active" className="nav-link" aria-current="page" target="_self" >Conócenos</NavLink>
+	              <NavLink to="/conocenos" activeclassname="active" className="nav-link" aria-current="page" target="_self" >Conócenos</NavLink>
 	            </li>
 	             <li className="nav-item">
-	              <NavLink to="/catalogo" activeclassName="active" className="nav-link" target="_self">Catálogo</NavLink>
+	              <NavLink to="/catalogo" activeclassname="active" className="nav-link" target="_self">Catálogo</NavLink>
 	            </li>
 	          
 	            <li className="nav-item">

@@ -52,7 +52,7 @@ function ModalCocteles(props){
             </div>
             <div className="modal-footer">
                  <button type="button" className="btn btn-cocteles" data-bs-dismiss="modal">Cerrar</button>
-                 <button type="button" className="btn btn-cocteles"><a href="tupedido.html">Haz tu pedido</a></button>
+                 <button type="button" className="btn btn-cocteles"><a href="#">Haz tu pedido</a></button>
             </div>
       </div>
   </div>

@@ -13,7 +13,7 @@ function ModalSmoothie(props) {
                     <div className="container-fluid">
                         <div className="row">
                           <div className="col-sm-12">
-                        
+
                             <div className="row">
                               <div className="imagen-g col-sm-6 col-md-6 col-lg-6">
                                  <img className="imgmodal" src={props.pms3} width="250px" />
@@ -51,7 +51,7 @@ function ModalSmoothie(props) {
                 </div>
                 <div className="modal-footer">
                 <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
-                <button type="button" className="btn btn-secondary"><a href="tupedido.html">Haz tu pedido</a></button>
+                <button type="button" className="btn btn-secondary"><a href="#">Haz tu pedido</a></button>
 
                 </div>
           </div>

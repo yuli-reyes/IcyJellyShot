@@ -1,7 +1,7 @@
 {
 	"smoothies": [
 		{
-			"id": 1,
+			"id": 9,
 			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugonatural.png",
 	        "title":"ORANGE",
 	        "icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
@@ -18,7 +18,7 @@
 		},
     
         {
-			"id": 2,
+			"id": 10,
 			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugolimon.png",
 	        "title":"LEMON",
 	        "icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
@@ -36,7 +36,7 @@
 		},
 
 		{
-			"id":3,
+			"id":11,
 			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugorojo.png",
 			"title":"BLUEBERRY",
 			"icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
@@ -53,7 +53,7 @@
 			
 		},
 		{
-			"id":4,
+			"id":12,
 			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugouva.png",
 			"title":"BLACKBERRY",
 			"icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
@@ -70,7 +70,7 @@
 			
 		},
 		{
-			"id":5,
+			"id":13,
 			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugofresa.png",
 			"title":"STRAWBERRY",
 			"icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
@@ -88,7 +88,7 @@
 		},
 
 		{
-			"id":6,
+			"id":14,
 			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugomora.png",
 			"title":"GRAPE",
 			"icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
@@ -105,7 +105,7 @@
 			
 		},
 		{
-			"id":7,
+			"id":15,
 			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugofeijoa.png",
 			"title":"APPLE",
 			"icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
@@ -122,7 +122,7 @@
 			
 		},
 		{
-			"id":8,
+			"id":16,
 			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugomango.png",
 			"title":"PINEAPPLE",
 			"icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
